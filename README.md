@@ -2,5 +2,5 @@
 
 Build and run
 
-    gcc multithread.c -lpthread
+    gcc basic-pthread.c -lpthread
     ./a.out
