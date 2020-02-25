@@ -1,6 +1,9 @@
-# C Threading
+# C Programs
 
-Build and run
+basic-pthread
 
-    gcc basic-pthread.c -lpthread
-    ./a.out
+    gcc basic-pthread.c -lpthread && ./a.out
+
+hello-fork-world
+
+    gcc hello-fork-world.c && ./a.out
